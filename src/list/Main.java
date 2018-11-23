@@ -10,6 +10,14 @@ public static void main(String[] args) throws Exception {
 		
 		IGraphL<Integer> g = new GraphL<Integer>(7);
 //		Heap<Integer> h = new Heap<Integer>(10);
+
+//		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
+//		String linea;
+//				
+//		while ((linea=br.readLine())!=null) {
+
+
+		
 //		
 //		h.insertMin(4, 4);
 //	//	h.insertMin(1, 1);
